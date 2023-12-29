@@ -76,3 +76,8 @@ Application de la transformation sortBy pour trier les éléments dans UR1R2 en 
         System.out.println("Résultat de UR1R2 : " + UR1R2.collect());
         System.out.println("Résultat de sortByLength : " + sort.collect());
 ```
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> abe51360869ac9b65f818c9b398823ea673623ca
