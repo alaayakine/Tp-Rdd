@@ -91,6 +91,17 @@ Application de la transformation sortBy pour trier les éléments dans UR1R2 en 
 ![10](https://github.com/alaayakine/Tp-Rdd/assets/106708512/575fc440-19fe-47a0-a27e-35f737e309d4)
 ![11](https://github.com/alaayakine/Tp-Rdd/assets/106708512/a8269e81-0f27-4cb2-95d3-fb2fbef964e8)
 ![12](https://github.com/alaayakine/Tp-Rdd/assets/106708512/253c47e0-8dc0-4047-815a-6e0b25bf8a6a)
+## Exercice 2 :
+## les donnees:
+![dataEx2](https://github.com/alaayakine/Tp-Rdd/assets/106708512/ae4304e0-1cab-49b4-91ef-217aeea22d5a)
+
+## 1 le total des ventes par ville
+![21](https://github.com/alaayakine/Tp-Rdd/assets/106708512/fcf6fab4-1a54-40fc-b5b5-626b82914fac)
+## 2 le prix total des ventes des produits par ville pour une année donnée.
+![22](https://github.com/alaayakine/Tp-Rdd/assets/106708512/3eb4ad95-43c4-4467-a433-0e6c45db5079)
+
+
+
 
 
 
