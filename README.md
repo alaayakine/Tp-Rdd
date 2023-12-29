@@ -1,4 +1,3 @@
-# TP RDD
 
 ## Exercice 1 :
 ## Spark Transformation and Action Example
