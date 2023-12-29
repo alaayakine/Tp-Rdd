@@ -1,4 +1,7 @@
-# Spark Transformation and Action Example
+# TP RDD
+
+## Exercice 1 :
+## Spark Transformation and Action Example
 
 This Spark program demonstrates a series of transformations and actions on a `JavaRDD<String>`.
 
