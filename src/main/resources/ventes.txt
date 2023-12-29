@@ -1,0 +1,9 @@
+2020-01-01,Paris,ProduitA,50.00
+2023-01-02,Lyon,ProduitB,30.00
+2021-01-03,Marseille,ProduitC,20.00
+2023-01-01,Paris,ProduitB,40.00
+2021-01-02,Lyon,ProduitA,55.00
+2023-01-03,Marseille,ProduitB,25.00
+2022-01-01,Paris,ProduitC,30.00
+2022-01-02,Lyon,ProduitC,15.00
+2022-01-03,Marseille,ProduitA,60.00
