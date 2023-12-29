@@ -76,8 +76,16 @@ Application de la transformation sortBy pour trier les éléments dans UR1R2 en 
         System.out.println("Résultat de UR1R2 : " + UR1R2.collect());
         System.out.println("Résultat de sortByLength : " + sort.collect());
 ```
-<<<<<<< HEAD
-=======
+![12](https://github.com/alaayakine/Tp-Rdd/assets/106708512/79ee9134-ffc4-4170-9a22-203bfa9e43d5)
+![11](https://github.com/alaayakine/Tp-Rdd/assets/106708512/c75e068f-4a5a-4d19-8b00-30b5ed2c4971)
+![10](https://github.com/alaayakine/Tp-Rdd/assets/106708512/b2267e80-cdcf-4736-9edf-865f312bc4bb)
+![9](https://github.com/alaayakine/Tp-Rdd/assets/106708512/422a2bc2-a5ff-4e4d-80b3-f16a29768acc)
+![8](https://github.com/alaayakine/Tp-Rdd/assets/106708512/e02f5997-64e1-447a-9cd0-b5b81134ed03)
+![7](https://github.com/alaayakine/Tp-Rdd/assets/106708512/971ede35-5b15-41bf-a201-f7d70d03efe1)
+![6](https://github.com/alaayakine/Tp-Rdd/assets/106708512/92b160a7-e0c4-45c9-97de-11a22db4c367)
+![5](https://github.com/alaayakine/Tp-Rdd/assets/106708512/ba9fa1f8-e1fe-4735-bea4-dd18bcfdbf0b)
+![4](https://github.com/alaayakine/Tp-Rdd/assets/106708512/e7f3589c-d763-4092-a163-5880d32339b0)
+![3](https://github.com/alaayakine/Tp-Rdd/assets/106708512/4957f97a-4207-44f7-985c-afe167d367a3)
+![2](https://github.com/alaayakine/Tp-Rdd/assets/106708512/e68dfa13-1adc-4a28-a63d-50f821b71e99)
+![1](https://github.com/alaayakine/Tp-Rdd/assets/106708512/b94b5d2c-9fd4-4a2b-9dc7-059d1196385b)
 
-
->>>>>>> abe51360869ac9b65f818c9b398823ea673623ca
