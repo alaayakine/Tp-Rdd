@@ -15,7 +15,7 @@ public class Main {
         SparkConf spark = new SparkConf().setAppName("ex1").setMaster("local[*]");
         JavaSparkContext context=new JavaSparkContext(spark);
         JavaRDD<String> rdd = context.parallelize(Arrays.asList(
-                new String[]{"Alaa yakine", "hicham elmodni", "Mehdi kari"}
+                new String[]{"Alaa-eddine nour-yakine", "hicham elmodni", "Mehdi kari","salah allouch"}
         ));
 
         // Apply flatMap transformation
@@ -30,10 +30,6 @@ public class Main {
         JavaRDD<String> reduceMF= context.parallelize(Arrays.asList(mapF3.reduce((s, s2) -> s.concat(s2))));
         JavaRDD<String> UR1R2=reduceMU.union(reduceMF);
         JavaRDD<String> sort=UR1R2.sortBy(String::length,true,1);
-
-
-
-
 
 
 
